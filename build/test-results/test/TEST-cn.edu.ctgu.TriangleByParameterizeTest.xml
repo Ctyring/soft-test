@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="cn.edu.ctgu.TriangleByParameterizeTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2023-03-20T08:28:16" hostname="LAPTOP-R6GI5B7G" time="0.287">
+  <properties/>
+  <testcase name="1 =&gt; a=1, b=2, c=3, expected=闈炰笁瑙掑舰" classname="cn.edu.ctgu.TriangleByParameterizeTest" time="0.232"/>
+  <testcase name="2 =&gt; a=2, b=2, c=3, expected=绛夎叞涓夎褰�" classname="cn.edu.ctgu.TriangleByParameterizeTest" time="0.003"/>
+  <testcase name="3 =&gt; a=2, b=2, c=2, expected=绛夎竟涓夎褰�" classname="cn.edu.ctgu.TriangleByParameterizeTest" time="0.002"/>
+  <testcase name="4 =&gt; a=3, b=4, c=5, expected=涓嶇瓑杈逛笁瑙掑舰" classname="cn.edu.ctgu.TriangleByParameterizeTest" time="0.002"/>
+  <testcase name="5 =&gt; a=50, b=50, c=50, expected=绛夎竟涓夎褰�" classname="cn.edu.ctgu.TriangleByParameterizeTest" time="0.001"/>
+  <testcase name="6 =&gt; a=100, b=100, c=100, expected=绛夎竟涓夎褰�" classname="cn.edu.ctgu.TriangleByParameterizeTest" time="0.002"/>
+  <testcase name="7 =&gt; a=1, b=1, c=100, expected=闈炰笁瑙掑舰" classname="cn.edu.ctgu.TriangleByParameterizeTest" time="0.002"/>
+  <testcase name="8 =&gt; a=10, b=20, c=100, expected=闈炰笁瑙掑舰" classname="cn.edu.ctgu.TriangleByParameterizeTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
