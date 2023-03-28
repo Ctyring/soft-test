@@ -5,29 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4b1d8809-f523-48c7-907d-e383f7023525" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/java/test/cn/edu/ctgu/TriangleByParameterizeTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/cn/edu/ctgu/TriangleByParameterizeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/文档/2020112805-曹倜源-软件测试实验一.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/文档/2020112805-曹倜源-软件测试实验二.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/文档/~$20112805-曹倜源-软件测试实验二.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/cn/edu/ctgu/Triangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/cn/edu/ctgu/Triangle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/cn/edu/ctgu/TriangleTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/cn/edu/ctgu/TriangleTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/cn.edu.ctgu.TriangleTest.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/css/base-style.css" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/css/base-style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/js/report.js" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/js/report.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/packages/cn.edu.ctgu.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/packages/cn.edu.ctgu.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-cn.edu.ctgu.TriangleTest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/source-classes-mapping.txt" beforeDir="false" afterPath="$PROJECT_DIR$/build/tmp/compileJava/source-classes-mapping.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/compileTestJava/source-classes-mapping.txt" beforeDir="false" afterPath="$PROJECT_DIR$/build/tmp/compileTestJava/source-classes-mapping.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/cn/edu/ctgu/TriangleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/cn/edu/ctgu/TriangleTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,6 +41,7 @@
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RunManager">
     <configuration name="TriangleByParameterizeTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
@@ -102,7 +81,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1679297686057</updated>
-      <workItem from="1679297692132" duration="1017000" />
+      <workItem from="1679297692132" duration="1420000" />
     </task>
     <servers />
   </component>
@@ -124,6 +103,6 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/JunitTest$TriangleByParameterizeTest.ic" NAME="TriangleByParameterizeTest Coverage Results" MODIFIED="1679300783759" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/JunitTest$TriangleByParameterizeTest.ic" NAME="TriangleByParameterizeTest Coverage Results" MODIFIED="1679300891699" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
 </project>
