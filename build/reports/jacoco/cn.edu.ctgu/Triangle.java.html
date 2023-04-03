@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="zh"><head><meta http-equiv="Content-Type" content="text/html;charset=UTF-8"/><link rel="stylesheet" href="../jacoco-resources/report.css" type="text/css"/><link rel="shortcut icon" href="../jacoco-resources/report.gif" type="image/gif"/><title>Triangle.java</title><link rel="stylesheet" href="../jacoco-resources/prettify.css" type="text/css"/><script type="text/javascript" src="../jacoco-resources/prettify.js"></script></head><body onload="window['PR_TAB_WIDTH']=4;prettyPrint()"><div class="breadcrumb" id="breadcrumb"><span class="info"><a href="../jacoco-sessions.html" class="el_session">Sessions</a></span><a href="../index.html" class="el_report">JunitTest</a> &gt; <a href="index.source.html" class="el_package">cn.edu.ctgu</a> &gt; <span class="el_source">Triangle.java</span></div><h1>Triangle.java</h1><pre class="source lang-java linenums">package cn.edu.ctgu;
+
+<span class="fc" id="L3">public class Triangle {</span>
+    public String classify(final int a, final int b, final int c) {
+<span class="fc" id="L5">        final int oneHundred = 100;</span>
+<span class="pc bpc" id="L6" title="5 of 12 branches missed.">        if (a &lt; 1 || a &gt; oneHundred || b &lt; 1 || b &gt; oneHundred || c &lt; 1 || c &gt; oneHundred) {</span>
+<span class="fc" id="L7">            return &quot;杈撳叆閿欒&quot;;</span>
+        }
+<span class="pc bpc" id="L9" title="2 of 6 branches missed.">        if (!((a + b &gt; c) &amp;&amp; (a + c &gt; b) &amp;&amp; (b + c &gt; a))) {</span>
+<span class="fc" id="L10">            return &quot;闈炰笁瑙掑舰&quot;;</span>
+<span class="pc bpc" id="L11" title="1 of 6 branches missed.">        } else if (a == b &amp;&amp; a == c &amp;&amp; b == c) {</span>
+<span class="fc" id="L12">            return &quot;绛夎竟涓夎褰�&quot;;</span>
+<span class="pc bpc" id="L13" title="2 of 6 branches missed.">        } else if (a != b &amp;&amp; a != c &amp;&amp; b != c) {</span>
+<span class="fc" id="L14">            return &quot;涓嶇瓑杈逛笁瑙掑舰&quot;;</span>
+        } else {
+<span class="fc" id="L16">            return &quot;绛夎叞涓夎褰�&quot;;</span>
+        }
+    }
+}
+</pre><div class="footer"><span class="right">Created with <a href="http://www.jacoco.org/jacoco">JaCoCo</a> 0.8.7.202105040129</span></div></body></html>

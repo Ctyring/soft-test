@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="cn.edu.ctgu.LongDistanceCallServiceTest" tests="9" skipped="0" failures="0" errors="0" timestamp="2023-04-03T06:29:14" hostname="LAPTOP-R6GI5B7G" time="0.059">
+  <properties/>
+  <testcase name="testCalculateTimeSpan_NotDuringDaylightSavingTime()" classname="cn.edu.ctgu.LongDistanceCallServiceTest" time="0.042"/>
+  <testcase name="testIsDuringDaylightSavingTime_NotDuringDaylightSavingTime()" classname="cn.edu.ctgu.LongDistanceCallServiceTest" time="0.005"/>
+  <testcase name="testCalculateFee_LessThanOrEqualTo20Minutes()" classname="cn.edu.ctgu.LongDistanceCallServiceTest" time="0.001"/>
+  <testcase name="testCalculateTimeSpan_DuringDaylightSavingTime()" classname="cn.edu.ctgu.LongDistanceCallServiceTest" time="0.002"/>
+  <testcase name="testIsDuringDaylightSavingTimeMarch()" classname="cn.edu.ctgu.LongDistanceCallServiceTest" time="0.001"/>
+  <testcase name="testIsDuringDaylightSavingTimeNovember()" classname="cn.edu.ctgu.LongDistanceCallServiceTest" time="0.001"/>
+  <testcase name="testIsDuringDaylightSavingTime_DuringDaylightSavingTime()" classname="cn.edu.ctgu.LongDistanceCallServiceTest" time="0.001"/>
+  <testcase name="testCalculateFee_GreaterThan20Minutes()" classname="cn.edu.ctgu.LongDistanceCallServiceTest" time="0.0"/>
+  <testcase name="testCalculateFee_LessThan1Minute()" classname="cn.edu.ctgu.LongDistanceCallServiceTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
